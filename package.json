@@ -1,0 +1,21 @@
+{
+  "name": "images-converter",
+  "version": "1.0.0",
+  "description": "A Node.js script to convert PNG images to WebP format",
+  "main": "image-converter.js",
+  "scripts": {
+    "start": "node image-converter.js"
+  },
+  "keywords": [
+    "png",
+    "webp",
+    "image",
+    "converter",
+    "compression"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}

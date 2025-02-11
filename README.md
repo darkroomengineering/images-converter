@@ -1,0 +1,3 @@
+- Add your images to the `png` folder
+- Run the script
+- Check the `webp` folder for the converted images
